@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine learning algorithms and techniques
+# Exploratory Data Analysis (EDA) on the Titanic Dataset
+
